@@ -41,15 +41,26 @@
     "uniqCompNum": 12,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "favicon": false,
     "noImageResize": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "gdpr": false,
-    "cookiesAlert": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "we are proud  +20K user are here ♥😍 please join our <a href='https://t.me/scorpionhat' target=\"_blank\">telegram channel</a> so you don't miss any updates and free stuff ",
+      "textButton": "OK"
+    },
+    "gdpr": false
   },
   "pages": {
     "index.html": {
