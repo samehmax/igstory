@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "story Views",
-    "currentPage": "page5.html",
+    "currentPage": "earnbtc.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1540,10 +1540,10 @@
         }
       ]
     },
-    "page5.html": {
+    "earnbtc.html": {
       "settings": {
         "meta_descr": "Earn Cripto",
-        "title": "BTC Facutes",
+        "title": "BTC Earn",
         "order": 1
       },
       "components": [
